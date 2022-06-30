@@ -1,0 +1,8 @@
+2.create a class of  having bellow variavbles.
+	A.emp_id;
+	B.emp_name;
+	C.emp_sal;
+
+-take the values from user
+-write a method to  compare salaries of two employees ,and return max sal
+1.write test cases to test functionality of class employee,by using Assert classes
